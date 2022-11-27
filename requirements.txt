@@ -1,5 +1,6 @@
 git+https://github.com/pyrogram/tgcrypto.git
 pyrogram[fast]
+requests
 py-tgcalls==0.8.1
 yt-dlp==2021.11.10.1
 requests
